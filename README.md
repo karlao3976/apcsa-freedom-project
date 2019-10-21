@@ -1,5 +1,5 @@
 # APCSA Freedom Project
-by Your Name Here
+by Karla Osorno
 
 ## Context
 Text
